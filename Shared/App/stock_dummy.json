@@ -1,0 +1,110 @@
+{
+  "name": "seccion sin gluten",
+  "products": [
+    {
+      "itemName": "ManzanaJHDSKHFDHSLDHFLSHLDFHKSFgfffdfgfgdfgdgdgdfgvshdjhfdgsklsdf2sd2f21222223",
+      "itemPrice": 5,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Pera",
+      "itemPrice": 10,
+      "itemStock": 10
+    },
+    {
+      "itemName": "uva",
+      "itemPrice": 15,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Cambur",
+      "itemPrice": 10,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Verde",
+      "itemPrice": 15,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Tynm",
+      "itemPrice": 10,
+      "itemStock": 10
+    },
+    {
+      "itemName": "PeraRoja",
+      "itemPrice": 25,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Aguacate",
+      "itemPrice": 105,
+      "itemStock": 10
+    },
+    {
+      "itemName": "NO",
+      "itemPrice": 25,
+      "itemStock": 10
+    },
+    {
+      "itemName": "keys",
+      "itemPrice": 35,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Pizza",
+      "itemPrice": 30,
+      "itemStock": 10
+    },
+    {
+      "itemName": "cambur",
+      "itemPrice": 20,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Naranja",
+      "itemPrice": 30,
+      "itemStock": 10
+    },
+    {
+      "itemName": "pasta",
+      "itemPrice": 25,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Arroz",
+      "itemPrice": 15,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Carme",
+      "itemPrice": 10,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Pollo",
+      "itemPrice": 15,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Pescado",
+      "itemPrice": 10,
+      "itemStock": 10
+    },
+    {
+      "itemName": "RP",
+      "itemPrice": 100,
+      "itemStock": 10
+    },
+    {
+      "itemName": "Tabacco",
+      "itemPrice": 50,
+      "itemStock": 10
+    },
+    {
+      "itemName": "weed",
+      "itemPrice": 100,
+      "itemStock": 10
+    }
+  ]
+}
